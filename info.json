@@ -2,7 +2,7 @@
   "name": "factorioplus-ru",
   "version": "0.2.99",
   "title": "Factorio+ — русская локализация",
-  "author": "Russian localization (original mod by Fishbus)",
+  "author": "Raevskiiy",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1", "? factorioplus >= 0.2.99"],
   "description": "Русский перевод мода Factorio+ (factorioplus). Требуется сам мод Factorio+."
